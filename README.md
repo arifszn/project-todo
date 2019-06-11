@@ -20,4 +20,5 @@ A project todo list web app made with Vue js, Vuetify and Firebase.
 
 ## Courtesy
 The Net Ninja
+<br>
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
