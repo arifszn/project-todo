@@ -1,29 +1,23 @@
-# todo
+# project-todo
 
-## Project setup
-```
-npm install
-```
+A project todo list web app made with Vue js, Vuetify and Firebase.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+[https://project-todo.surge.sh/](https://project-todo.surge.sh/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshots
+![alt text](https://raw.githubusercontent.com/arifszn/project-todo/master/public/Screenshot(01).jpg)
+<br />
+<br />
 
-### Run your tests
-```
-npm run test
-```
+***
+![alt text](https://raw.githubusercontent.com/arifszn/project-todo/master/public/Screenshot(02).jpg)
+<br />
+<br />
 
-### Lints and fixes files
-```
-npm run lint
-```
+***
+![alt text](https://raw.githubusercontent.com/arifszn/project-todo/master/public/Screenshot(03).jpg)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Courtesy
+The Net Ninja
+https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
