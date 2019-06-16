@@ -1,6 +1,6 @@
 # project-todo
 
-A project todo list web app made with Vue js, Vuetify and Firebase.
+A project todo list web app made with Vue.js, Vuetify and Firebase.
 
 ## Demo
 [https://project-todo.surge.sh/](https://project-todo.surge.sh/)
